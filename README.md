@@ -1,1 +1,4 @@
 # Blagotron
+
+pip install feedparser
+
